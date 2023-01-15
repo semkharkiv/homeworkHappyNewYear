@@ -1,3 +1,5 @@
+package homeWorkHappyNewYear;
+
 public class Bank {
     public static void main(String[] args) {
         int x=32;

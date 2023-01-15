@@ -1,3 +1,5 @@
+package homeWorkHappyNewYear;
+
 public class Weekend {
     public static void main(String[] args) {
 

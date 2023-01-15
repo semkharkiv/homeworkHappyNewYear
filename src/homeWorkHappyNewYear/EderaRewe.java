@@ -1,3 +1,5 @@
+package homeWorkHappyNewYear;
+
 public class EderaRewe {
     public static void main(String[] args) {
         boolean isEdekaOpen = true;

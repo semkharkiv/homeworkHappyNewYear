@@ -1,3 +1,5 @@
+package homeWorkHappyNewYear;
+
 import java.util.Random;
 
 public class WorkTIme {

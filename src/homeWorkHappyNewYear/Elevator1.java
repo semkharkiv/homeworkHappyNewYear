@@ -1,3 +1,5 @@
+package homeWorkHappyNewYear;
+
 public class Elevator1 {
     public void  numberOfLifts(int floor, int stepUp, int stepDown) {
         int H=floor;
